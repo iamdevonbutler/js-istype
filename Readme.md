@@ -9,10 +9,26 @@ Simple type checking for JS.
 npm i --save js-istype
 ```
 
+## Supported types
+- string
+- number
+- boolean
+- array
+- object
+- null
+- undefined
+- function
+- error
+- symbol
+- NaN
+- date
+
+*API uses lowercase type names (but NaN is NaN)*
+
 ## Example
 ```javascript
-
-
+const isType = require('js-istype');
+isType({}, 'object'); // true
 ```
 
 ## License
