@@ -1,4 +1,4 @@
-# js-istype [![Build Status](https://travis-ci.org/iamdevonbutler/js-istype.svg?branch=master)](https://travis-ci.org/iamdevonbutler/js-istype)
+# js-type-checking [![Build Status](https://travis-ci.org/iamdevonbutler/js-type-checking.svg?branch=master)](https://travis-ci.org/iamdevonbutler/js-type-checking)
 
 Simple type-checking for JS.
 
@@ -6,7 +6,7 @@ Simple type-checking for JS.
 
 ## Installation
 ```
-npm i --save js-istype
+npm i --save js-type-checking
 ```
 
 ## Supported types
@@ -27,7 +27,7 @@ npm i --save js-istype
 
 ## Example
 ```javascript
-const isType = require('js-istype');
+const isType = require('js-type-checking');
 isType({}, 'object'); // true
 ```
 
