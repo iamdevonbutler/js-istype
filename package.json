@@ -1,7 +1,7 @@
 {
   "name": "js-istype",
   "version": "0.1.0",
-  "description": "Simple type checking for JS",
+  "description": "Simple type-checking for JS",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib",
