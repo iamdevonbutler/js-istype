@@ -2,7 +2,7 @@
 
 Simple type-checking for JS.
 
-**Requires: node >= 9**
+**engines: node >= 8.x**
 
 ## Installation
 ```
