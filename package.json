@@ -1,5 +1,5 @@
 {
-  "name": "js-type-checking",
+  "name": "js-istype",
   "version": "0.1.0",
   "description": "Simple type-checking for JS",
   "main": "lib/index.js",
