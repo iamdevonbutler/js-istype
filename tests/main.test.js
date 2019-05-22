@@ -35,7 +35,7 @@ var types = [
 ];
 
 // @todo possiblities.
-describe('js-type-checking tests', () => {
+describe('js-istype tests', () => {
   it ('should properly type-check values', () => {
     values.forEach((values1, i) => {
       values1.forEach(value => {
