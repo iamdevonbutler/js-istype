@@ -1,6 +1,6 @@
 # js-istype [![Build Status](https://travis-ci.org/iamdevonbutler/js-istype.svg?branch=master)](https://travis-ci.org/iamdevonbutler/js-istype-checking)
 
-Simple type-checking for JS.
+JS type checking.
 
 **engines: node >= 9.x**
 
