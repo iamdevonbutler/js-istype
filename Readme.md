@@ -10,18 +10,18 @@ npm i --save iamdevonbutler/js-istype#1.0
 ```
 
 ## Supported types
-- string
-- number
-- boolean
-- array
-- object
-- null
-- undefined
-- function
-- error
-- symbol
-- NaN
-- date
+- `string`
+- `number`
+- `boolean`
+- `array`
+- `object`
+- `null`
+- `undefined`
+- `function`
+- `error`
+- `symbol`
+- `NaN`
+- `date`
 
 *API uses lowercase type names (but NaN is NaN)*
 
