@@ -6,7 +6,7 @@ Simple type-checking for JS.
 
 ## Installation
 ```
-npm i --save js-istype
+npm i --save iamdevonbutler/js-istype@1.0
 ```
 
 ## Supported types

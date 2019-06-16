@@ -1,6 +1,6 @@
 {
   "name": "js-istype",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "JS type checking",
   "main": "lib/index.js",
   "directories": {
