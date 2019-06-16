@@ -1,7 +1,7 @@
 {
   "name": "js-istype",
   "version": "0.1.0",
-  "description": "Simple type-checking for JS",
+  "description": "JS type checking",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib",
@@ -12,20 +12,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamdevonbutler/js-type-checking.git"
+    "url": "git+https://github.com/iamdevonbutler/js-istype.git"
   },
   "author": "Jay Pescione <jpescione@gmail.com> (https://github.com/iamdevonbutler)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamdevonbutler/js-type-checking/issues"
+    "url": "https://github.com/iamdevonbutler/js-istype/issues"
   },
   "keywords": [
     "js",
     "node",
     "javascript",
+    "type",
     "type checking"
   ],
-  "homepage": "https://github.com/iamdevonbutler/js-type-checking#readme",
+  "homepage": "https://github.com/iamdevonbutler/js-istype#readme",
   "devDependencies": {
     "chai": "4.1.2",
     "mocha": "5.0.1"
